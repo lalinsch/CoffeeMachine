@@ -1,2 +1,0 @@
-machine/CoffeeMachine.java
- machine.CoffeeMachine
